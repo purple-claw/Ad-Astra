@@ -1,4 +1,4 @@
-# Orion — DSA Mastery Curriculum
+# Rules - Must Follow
 
 **Subject:** Algorithms & Data Structures (from scratch → FAANG-ready → systems-builder level)
 **Timeline:** 2–3 years, ~8–15 hrs/week
